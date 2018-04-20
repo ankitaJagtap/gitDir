@@ -10,6 +10,9 @@ class add
     {
     cout<<"Enter two numbers:";
     cin>>no1>>no2;
+    }
+    void display()
+    {
     cout<<no1<<no2;
     }
 
@@ -23,6 +26,7 @@ int main()
 {
 add obj;
 obj.read();
+obj.display();
 obj.sum();
 }
 

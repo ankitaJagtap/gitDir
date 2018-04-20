@@ -3,7 +3,7 @@ using namespace std;
 
 class add
 {   public:
-    int no1,no2;
+    int num1,num2;
 
     public:
     void read()

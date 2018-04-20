@@ -8,7 +8,7 @@ class add
     public:
     void read()
     {
-    cout<<"Enter two numbers:";
+    cout<<"Enter value of two numbers:";
     cin>>no1>>no2;
     }
     void display()
